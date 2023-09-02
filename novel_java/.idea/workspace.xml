@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ad0980b-49ea-4d97-9f8a-87b251868719" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UVqSvasqPrElcht5rf2QrLtN6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/Project/java/轻小说生涯喜好表/novel_vue&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;66940c4f2e2026f416264fb7821d9851&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yuki.enums" />
+      <recent name="com.yuki.domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NovelApplication (1)">
+    <configuration name="Test.testSearchBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="novel_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuki" />
+      <option name="MAIN_CLASS_NAME" value="com.yuki.Test" />
+      <option name="METHOD_NAME" value="testSearchBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.testUrlBase64" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="novel_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuki" />
+      <option name="MAIN_CLASS_NAME" value="com.yuki.Test" />
+      <option name="METHOD_NAME" value="testUrlBase64" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NovelApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="novel_java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yuki.NovelApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NovelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="novel_java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="NovelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.NovelApplication (1)" />
+        <item itemvalue="JUnit.Test.testUrlBase64" />
+        <item itemvalue="JUnit.Test.testSearchBook" />
+        <item itemvalue="Spring Boot.NovelApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1ad0980b-49ea-4d97-9f8a-87b251868719" name="更改" comment="" />
+      <created>1693035098731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693035098731</updated>
+      <workItem from="1693035100000" duration="1074000" />
+      <workItem from="1693036203592" duration="108000" />
+      <workItem from="1693036329422" duration="2394000" />
+      <workItem from="1693045771240" duration="4364000" />
+      <workItem from="1693050161756" duration="356000" />
+      <workItem from="1693050520891" duration="3822000" />
+      <workItem from="1693121218821" duration="1123000" />
+      <workItem from="1693210938767" duration="1628000" />
+      <workItem from="1693311894135" duration="123000" />
+      <workItem from="1693358579847" duration="4893000" />
+      <workItem from="1693381312780" duration="1307000" />
+      <workItem from="1693383770463" duration="2983000" />
+      <workItem from="1693394150921" duration="758000" />
+      <workItem from="1693439668714" duration="3986000" />
+      <workItem from="1693464331846" duration="3007000" />
+      <workItem from="1693481685081" duration="3997000" />
+      <workItem from="1693491497052" duration="2801000" />
+      <workItem from="1693526926347" duration="2730000" />
+      <workItem from="1693537806982" duration="4931000" />
+      <workItem from="1693564216684" duration="3000" />
+      <workItem from="1693613890002" duration="3170000" />
+      <workItem from="1693622574277" duration="50000" />
+      <workItem from="1693624077816" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
